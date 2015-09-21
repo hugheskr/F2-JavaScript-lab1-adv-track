@@ -92,6 +92,7 @@ sentence1 = arrSentence1.toString().split(',').join(' ') + '.';
 // with 'chirp' (10 points)
 
 // your code goes here
+// your code goes here
 var arrSentence2 = sentence2.split(' ');
 var j = 0;
 while (j < arrSentence2.length) {
